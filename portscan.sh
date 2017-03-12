@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#coded by voldete
+#coded by vold
 #TFaction s2
 VERMELHO='\e[0;31m'
 SEMCOR='\e[0m'
