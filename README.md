@@ -1,2 +1,5 @@
 # PortScan
-# uso: bash scan e põe o host desejado ;)
+###Uso:
+bash scan 
+
+E põe o host desejado ;)
